@@ -1,4 +1,4 @@
-**AI Recommendation System (TASK 4)**
+**AI RECOMMENDATION SYSTEM (TASK 4)**
 
 **COMPANY** : CODTECH IT SOLUTIONS
 
